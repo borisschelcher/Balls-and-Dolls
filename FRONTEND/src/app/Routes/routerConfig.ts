@@ -8,7 +8,7 @@ const appRoutes: Routes = [
         component: HomeComponent,
     },
     {
-        path: "/Not-Found",
+        path: "Not-Found",
         component: NotFoundComponent,
     },
     {
